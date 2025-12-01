@@ -22,7 +22,7 @@ Animated path visualisation
 
 ## Note on earlier versions
 
-Earlier versions of the project exist in this repository as part of the development process. The final solution is the modular version shown above.
+Earlier versions of the project exist in this repository as part of the development process. The final solution is the modular version shown at the top in the folder.
 
 ## Running the project
 
